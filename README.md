@@ -1,6 +1,5 @@
-- 👋 Hello World, I'm Unkn0wn_Gh0st a youtuber and learning programmer or something.
+- 👋 Hello World, I'm Unkn0wn_Gh0st a youtuber or something.
 - 🚀 I’m currently helping with SS14 with small changes/edits
-- 🌱 I’m currently learning C# (I think)
 - 📫 You can reach me at my discord: unkn0wn_gh0st
 - ⚡ Fun fact: mmmm youtuber
 
